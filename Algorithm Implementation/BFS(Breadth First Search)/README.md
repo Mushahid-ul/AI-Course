@@ -25,7 +25,7 @@ Breadth-First Search (BFS) explores a graph level by level using a FIFO queue. I
 
 5. Example input & output
 (Include an image showing the input graph and program output)
-![BFS Example](./Breadth_first_search1.png)
+![BFS Example](./Breadth_first_search 1.png)
 ![BFS Example](./Bredth_First_Search.png)
 
 8. How to run
